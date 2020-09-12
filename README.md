@@ -1,4 +1,4 @@
-# Statistical_Programming
+# Statistical Programming
 ### Course Description: 
 Programming structures and algorithms for large-scale statistical data processing and
 visualization. Students will use commonly available data analysis software packages to
@@ -25,3 +25,9 @@ investment of computing power.
 subsets with similar properties.
 4. Create and choose visualization approaches that most clearly depict the
 characteristics of the data that need to be communicated for a particular purpose.
+
+### Baccalaureate Characteristics/Graduate Student Learning Outcomes
+1. Synthesize theoretical and research concepts from multiple perspectives
+to inform inquiry and practice.
+2. Formulate creative responses to complex issues through critical
+analysis.
